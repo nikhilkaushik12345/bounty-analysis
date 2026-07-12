@@ -1,0 +1,108 @@
+Companies that confirmed bug bounty / VDP / reward programs:
+(From ~231 replies received, 78 had clear programs)
+
+=== BUG BOUNTY PROGRAMS (with monetary rewards) ===
+
+Agicap - bugbounty@agicap.com - has bug bounty policy
+Airtable - HackerOne program
+Akamai - HackerOne (Linode Compute + CDN)
+AllTrails - Bugcrowd public program
+Amplitude - Bugcrowd private program (invite)
+Apollo - Bugcrowd managed program
+Brex - Bugcrowd + responsible disclosure
+Bugbounty (WEB.DE) - has bug bounty program
+Calendly - HackerOne private invite-based
+Clerk - HackerOne private program
+ClickUp - HackerOne program
+Close - HackerOne embedded form
+Conductor - bugbounty@conductor.com
+Contentful - bug bounty program
+DataProvider - provides rewards
+DatoCMS - €50-€200 per report
+Dune Analytics - case-by-case bounty
+Egnyte - provides rewards, VDP
+Fathom - $200 per accepted report
+Fever - Bugcrowd private program
+Fireflies.ai - HackerOne program
+Front - HackerOne public program
+Gainsight - private bug bounty if valid/inscope
+Handelsblatt Group - provides bounties
+HubSpot - HackerOne public program
+Krisp - HackerOne program
+Lucid (Lucidchart) - HackerOne program
+Lumin PDF - provides rewards
+Mercury - HackerOne private (invite via hackerone@mercury.com)
+Miro - Intigriti public program
+Mixpanel - private bug bounty (self-serve)
+Padlet - Federacy bounty platform
+Pendo - Intigriti private program
+Public.com - HackerOne program
+Rally - private bug bounty program
+Replit - HackerOne private invite-based
+Similarweb - bug bounty vendor
+Solve Intelligence - provides rewards
+Spaceship - $100 USD per bug
+Tray.ai - HackerOne link
+Upstash - rewards for critical issues
+Whimsical - private bug bounty (invite-only)
+ZipRecruiter - HackerOne program (invited)
+
+=== VDP / RESPONSIBLE DISCLOSURE ONLY ===
+
+Atlan - VDP
+Attio - VDP, compensation case-by-case
+DocHub (airSlate) - HackerOne VDP
+EMBL-EBI - Hall of Fame only
+Firecrawl - Bugcrowd VDP
+Jotform - VDP
+LegalZoom - VDP
+Letsweel (Weel) - responsible disclosure
+MailerLite - responsible disclosure program
+MeisterLabs - VDP
+n8n - VDP + bounty terms
+PhantomBuster - Yogosha VDP
+Pigment - VDP
+Privacy.com (Lithic) - VDP, compensation possible
+UsePylon - VDP
+Workato - VDP
+
+=== NO PROGRAM / NO REWARDS (explicitly stated) ===
+
+1fit - not interested
+10x Genomics - cannot offer bounties
+AccessOwl - no formal program
+AirOps - no program
+Atruvia - no reward program
+Beautiful.ai - no reward
+Benchling - no bug bounty
+CData - no payment
+Craft - no formal bounty
+Daloopa - no formal program
+Docfork - no formal (free usage as thanks)
+Dukascopy - no official program
+Enhancv - no active bounty (discounted access)
+Incident.io - no formal (rewards at discretion)
+Karbon HQ - no bug bounty
+Lockchain - no bounty (swag at discretion)
+Mermaid Chart - no bounty (swag/sub possible)
+Morningstar - no bounty (VDP only)
+Omni - no bounty (responsible disclosure)
+Scenario - no rewards
+Starburst - no formal program
+Tally - no formal bounty
+Tango - no bug bounty
+Veed - no published program
+
+=== DISCRETIONARY / CASE-BY-CASE ===
+
+Cabsin - credits for valid reports
+Clarity AI - no monetary rewards
+Entri - no monetary rewards
+FactSet - no monetary rewards
+Granola - monetary at discretion
+Honeydew - no monetary rewards
+Kit - VDP (no $), private program for proven researchers
+Process Street - Hall of Fame only
+QuickNode - coupons for valid findings
+Tropic - eligibility for compensation
+Visier - compensation at discretion

@@ -1,0 +1,14 @@
+Platform / edge case / non-company replies:
+
+hackerone.com - HackerOne platform messages (not a company submission)
+coinbase.com - Coinbase (not in sent list, cross-reply)
+linkedin.com - LinkedIn notifications (not in sent list)
+googlemail.com - Google account notifications
+blogs.jsmon.sh - JS Monitor blog (not a company)
+candid.org - Candid (not in sent list)
+getclockwise.com - Clockwise shutting down
+mixmax.com - Mixmax email platform
+quizizz.com - Quizizz (not in sent list)
+reprintsdesk.zendesk.com - Reprints Desk (not in sent list)
+rhymetec.freshdesk.com - Rhymetec security vendor ticket
+support.genspark.ai - Genspark support (already counted in Genspark reply)

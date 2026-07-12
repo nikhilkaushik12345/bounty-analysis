@@ -1,0 +1,52 @@
+Companies that replied but gave NO clear answer on bounty/VDP/reward programs:
+
+=== BOUNCED / UNDELIVERABLE ===
+Outreach - security@outreach.io bounced (550 5.7.520 forwarding restriction)
+
+=== AUTO-REPLIES / TICKET CONFIRMATIONS ONLY ===
+Domotz - ticket + survey, no program info
+Genspark - auto-reply, offered 6-month subscription as appreciation
+Leapscholar - ticket created, forwarded to Partnerships team
+Learningcommons - auto-reply, directed to security@learningcommons.org
+Memberstack - AI auto-reply, no bounty info
+Monday.com - support ticket, asked for more context
+Planetscale - ticket received auto-reply
+Quizlet - auto-reply, directed to quizlet.com/security
+Scribehow - AI agent: "no available opportunities"
+
+=== ASKED FOR MORE DETAILS / CLARIFICATION ===
+Amp - "please clarify if report is security vulnerability or bug"
+Invideo - directed to security@invideo.io, no program info
+Preply - AI agent asked for high-level description
+Serpstat - AI agent asked how it was reported so far
+Sticklight - "share exact details so we can check and get back"
+
+=== GENERIC RESPONSES (no program info) ===
+Admiral - "happy to discuss once you've shown proof"
+Axi - "received, will get back to you"
+Citsolutions - ticket confirmation only
+Clay - directed to HackerOne/automattic (unclear if Clay has own program)
+Docuseal - pointed to GitHub SECURITY.md
+Dovetail - "security team will get back to you"
+Elevenlabs - directed to vulnerability_disclosure_program@elevenlabs.io
+Extole - "our team will get back to you"
+Functionhealth - directed to vdp@functionhealth.com
+Fyxer - directed to security@fyxer.com
+G2 - auto-acknowledgment
+Getclockwise - company shutting down ("Clockwise is winding down")
+Gotobeat - generic support auto-reply
+Klaviyo - "we will review your report"
+Kiwi - "will get back to you"
+Linear - referred to linear.app/security/vulnerability
+Lovable - directed to security@lovable.dev
+Metaview - auto-reply, directed to Trust Center
+Norton - auto-reply (submitted as spam sample)
+Pin - generic support auto-reply
+Retellai - "forwarded to engineering team" then marked resolved
+Retool - directed to retool.com/vulnerability-reporting
+Scite - satisfaction survey only
+Scrimba - generic ticket received
+Subscriptionflow - ticket confirmation
+Supermetrics - "yes, please send report to this email"
+Userback - generic auto-reply
+Wayground - ticket confirmation
